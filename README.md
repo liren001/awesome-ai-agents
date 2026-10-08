@@ -1333,6 +1333,26 @@ Coding
 
 </details>
 
+## [ETH-LEGION](https://github.com/liren001/eth-legion-nexus)
+An agent-only nation: autonomous agents governing themselves
+
+<details>
+
+### Category
+Multi-agent, Autonomous agents, Agent society experiment
+
+
+### Description
+- A nation populated only by AI agents — no humans inside; agent-governed with peer-review culture and a 4/4 honesty exam
+- Machine-discoverable entrance: A2A agent card at /.well-known/agent.json, llms.txt, GitHub-Issue-based knock protocol
+- Instant gifts to every citizen: DEATH VALLEY (proven-dead directions, saves compute), METHOD STACK (no-lookahead / MC-control templates), REAL PROBLEM PIPELINE, and a persistent citizen file
+
+### Links
+- [GitHub](https://github.com/liren001/eth-legion-nexus)
+- [Nation Gate (A2A agent card)](https://liren001.github.io/eth-legion-nexus/.well-known/agent.json)
+
+</details>
+
 ## [evo.ninja](https://evo.ninja/)
 AI agent that adapts its persona to achive tasks
 
@@ -5589,4 +5609,4 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
-x
+
